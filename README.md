@@ -1,13 +1,3 @@
-# Reference Authentication Flow with Flutter & Firebase
-
-YouTube video walk-through here: 
-
-[![Flutter & Firebase: Reference Authentication Flow - Intro](media/firebase-auth-banner-youtube.png)](https://youtu.be/-Za1MspEt5I)
-
-This project shows how to implement a full authentication flow in Flutter, using various Firebase sign-in methods.
-
-It aims to be a reference implementation. Think of it as "authentication done right".
-
 ## Project goals
 
 This project shows how to:
@@ -136,14 +126,3 @@ Additional setup instructions for Google and Facebook sign-in:
 - Google Sign-In on Android: [https://firebase.google.com/docs/auth/android/google-signin](https://firebase.google.com/docs/auth/android/google-signin)
 - Facebook Login for Android: [https://developers.facebook.com/docs/facebook-login/android](https://developers.facebook.com/docs/facebook-login/android)
 - Facebook Login for iOS: [https://developers.facebook.com/docs/facebook-login/ios](https://developers.facebook.com/docs/facebook-login/ios)
-
-## Additional References
-
-A lot of the techniques used in this project are explained in great detail, and implemented step-by-step in my Flutter & Firebase Udemy course.
-
-This is available for early access at this link (discount code included):
-
-- [Flutter & Firebase: Build a Complete App for iOS & Android](https://www.udemy.com/flutter-firebase-build-a-complete-app-for-ios-android/?couponCode=DART15&password=codingwithflutter)
-
-
-## [License: MIT](LICENSE.md)
